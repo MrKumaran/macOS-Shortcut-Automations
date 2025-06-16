@@ -6,7 +6,7 @@ Here is the corrected `Idea.md` with only **script** and **template** marked whe
 
 Contribute new automation ideas that solve real-world problems. All ideas listed here should be achievable using macOS Shortcuts, with or without shell scripting.
 
-> ✅ **To contribute**, follow [contribution.md](./contribution.md)
+> ✅ **To contribute, Follow [contribution.md](./CONTRIBUTING.md)**
 
 ---
 

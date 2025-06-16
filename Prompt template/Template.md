@@ -4,7 +4,7 @@
 
 These prompt templates help users ask AI tools (like ChatGPT) to create automation scripts or workflows using the **Shortcuts app on macOS**.
 
-> ✅ **Follow [contribution.md](../contribution.md)** to add more prompts!
+> ✅ **Follow [contribution.md](../CONTRIBUTING.md)** to add more prompts!
 
 ---
 
