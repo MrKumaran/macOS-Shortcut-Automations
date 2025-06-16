@@ -75,3 +75,16 @@ Create a Shortcut that detects if the current Wi-Fi name is not "HomeWiFi", then
 ```
 Create a Shortcut that starts a 25-minute Pomodoro timer, sends a notification saying "Focus Time Started", and silences notifications.
 ```
+
+## 8. Real-time File Organizer Based on File Type  
+
+**Prompt:**
+
+```
+Create a macOS Shortcut workflow that organizes files in the Downloads folder based on their file type.
+Each file type should go into its matching folder (e.g., Images → "Pictures", PDFs → "Documents").
+
+Then, provide Automator instructions to trigger this Shortcut automatically whenever a new file is added to Downloads.
+
+Output the shell script if needed, the shortcut steps, and Automator setup steps.
+```
