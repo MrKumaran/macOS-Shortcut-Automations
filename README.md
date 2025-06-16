@@ -45,7 +45,7 @@ Whether you're scripting for the first time or building advanced workflows—you
 
 ## Learn More
 
-Read the guide: [macOS Automations Using Shortcut](#)
+Read the guide: [macOS Automations Using Shortcut](https://medium.com/@kumaran-s/macos-automations-using-shortcut-f8e19e41bc07)
 
 ## License
 
