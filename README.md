@@ -9,11 +9,12 @@ This open-source project helps you streamline your daily macOS tasks with custom
 ## Repository Structure
 
 ```
-│── Script/            # Shell scripts used inside Shortcuts
 │── Prompt template/   # Prompt templates for generating scripts or workflows
+│── Script/            # Shell scripts used inside Shortcuts
 ├── Workflow/          # Ready-to-use Shortcut workflows
+├── CONTRIBUTING.md    # Contributing guidelines
 ├── Idea.md            # List of automation ideas and notes
-├── CONTRIBUTING.md
+│── LICENSE
 └── README.md
 ```
 
