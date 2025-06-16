@@ -79,3 +79,9 @@ Shell script to open preferred browser with predefined URLs like Gmail, Docs, Ji
 
 Turn on Focus mode, reduce brightness, mute notifications, and show a message that says “Deep Work Mode: On”.
 *(No script/template yet)*
+
+---
+
+### 11. Real-time File Organizer Based on File Type  
+Automatically move newly added files into folders like "Images", "Videos", or "Documents" based on file type. Uses a Shortcut for organizing and Automator to trigger it when files are added.  
+*(Prompt Template Available)*
