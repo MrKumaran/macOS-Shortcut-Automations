@@ -1,0 +1,52 @@
+# macOS-Shortcut-Automations
+
+A collection of workflows, shell scripts, and prompt templates to automate repetitive tasks on macOS using the **Shortcuts app** and command-line tools.
+
+## Overview
+
+This open-source project helps you streamline your daily macOS tasks with custom Shortcuts, shell scripts, and prompt templates. Whether you're organizing files, updating software, or triggering actions with input, this repo has building blocks to get you started.
+
+## Repository Structure
+
+```
+│── Script/            # Shell scripts used inside Shortcuts
+│── Prompt template/   # Prompt templates for generating scripts or workflows
+├── Workflow/          # Ready-to-use Shortcut workflows
+├── Idea.md            # List of automation ideas and notes
+├── CONTRIBUTING.md
+└── README.md
+```
+
+### Directory Details
+
+* **Script/** – Contains shell scripts for actions like updating packages, renaming files, etc.
+* **Prompt template/** – Contains AI prompts to help you generate or improve scripts and workflows.
+* **Workflow/** – Includes exported Shortcuts (.shortcut files) ready to import into the Shortcuts app.
+* **Idea.md** – Brainstormed automation ideas that can be implemented using Shortcuts or shell scripts.
+
+## Example Use Cases
+
+* One-click Homebrew update
+* Auto-renaming and moving screenshots
+* Uninstall Homebrew packages via input prompt
+* Schedule or trigger actions using Automator + Shortcuts
+* Run shell scripts via Shortcut with real-time output
+
+## Contribute
+
+This project is open to contributions!
+
+* Submit a **Pull Request** with new scripts, prompt templates, or workflows.
+* Improve or optimize existing ones.
+* Add new ideas to `Idea.md`.
+
+Whether you're scripting for the first time or building advanced workflows—your contribution is welcome.
+**Please read the [`CONTRIBUTING.md`](CONTRIBUTING.md) file before starting to understand the guidelines.**
+
+## Learn More
+
+Read the guide: [macOS Automations Using Shortcut](#)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
