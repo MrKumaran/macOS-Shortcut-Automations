@@ -2,7 +2,8 @@
 
 ## **Purpose**
 
-This script is designed to be used inside the **macOS Shortcuts app** using the “Run Shell Script” action. It opens a selected browser and loads a specific URL.
+This script is designed to be used inside the **macOS Shortcuts app** using the “Run Shell Script” action. It opens a
+selected browser and loads a specific URL.
 
 ---
 
@@ -14,7 +15,7 @@ This script is designed to be used inside the **macOS Shortcuts app** using the 
 BROWSER="open -a 'Google Chrome'"  # For Safari: open -a Safari
 
 # Set the URL
-URL="https://www.google.com"
+URL="https://www.google.com" # for automation try to get url/searchkey as input and pass it to here.
 
 # Open the URL in the selected browser
 $BROWSER "$URL"
@@ -31,14 +32,15 @@ $BROWSER "$URL"
 5. Leave **Input** and **Shell** as default unless needed.
 6. Optionally, enable **“Pin in Menu Bar”** for quick access.
 
-👉 For a full beginner-friendly guide on using macOS Shortcuts with scripts, [read this article](https://kumaran-s.medium.com/macos-automations-using-shortcut-f8e19e41bc07).
+For a full beginner-friendly guide on using macOS Shortcuts with
+scripts, [read this article](https://kumaran-s.medium.com/macos-automations-using-shortcut-f8e19e41bc07).
 
 ---
 
 ## **Supported Browsers on macOS**
 
 | Browser        | Command Example            |
-| -------------- | -------------------------- |
+|----------------|----------------------------|
 | Google Chrome  | `open -a 'Google Chrome'`  |
 | Safari         | `open -a Safari`           |
 | Firefox        | `open -a Firefox`          |

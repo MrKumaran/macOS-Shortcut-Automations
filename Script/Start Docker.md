@@ -24,7 +24,8 @@ open -a "Docker"
 5. Optional: Check “Runs with administrator privileges” if needed.
 6. Pin to the menu bar for quick access.
 
-👉 Full shortcut guide here: [macOS Automations Using Shortcuts](https://kumaran-s.medium.com/macos-automations-using-shortcut-f8e19e41bc07)
+Full shortcut guide
+here: [macOS Automations Using Shortcuts](https://kumaran-s.medium.com/macos-automations-using-shortcut-f8e19e41bc07)
 
 ---
 
