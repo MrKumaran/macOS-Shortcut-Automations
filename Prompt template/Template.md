@@ -4,7 +4,7 @@
 
 These prompt templates help users ask AI tools (like ChatGPT) to create automation scripts or workflows using the **Shortcuts app on macOS**.
 
-> ✅ **Follow [contribution.md](../CONTRIBUTING.md)** to add more prompts!
+> **Follow [contribution.md](../CONTRIBUTING.md)** to add more prompts!
 
 ---
 
@@ -76,7 +76,7 @@ Create a Shortcut that detects if the current Wi-Fi name is not "HomeWiFi", then
 Create a Shortcut that starts a 25-minute Pomodoro timer, sends a notification saying "Focus Time Started", and silences notifications.
 ```
 
-## 8. Real-time File Organizer Based on File Type  
+## 8. Real-time File Organizer Based on File Type
 
 **Prompt:**
 
@@ -88,3 +88,4 @@ Then, provide Automator instructions to trigger this Shortcut automatically when
 
 Output the shell script if needed, the shortcut steps, and Automator setup steps.
 ```
+
