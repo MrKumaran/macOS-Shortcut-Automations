@@ -6,6 +6,11 @@ A collection of workflows, shell scripts, and prompt templates to automate repet
 
 This open-source project helps you streamline your daily macOS tasks with custom Shortcuts, shell scripts, and prompt templates. Whether you're organizing files, updating software, or triggering actions with input, this repo has building blocks to get you started.
 
+> [!NOTE]
+> macOS 26 has updated some UI elements, so the “Pin on Menu” option is no longer available inside the Shortcuts app. Instead, it can be found in the Control Center:
+> * Click the Control Center button in the menu bar → Edit Controls → select Shortcut and add it to the menu bar.
+> * Here, you have two options: either set the shortcut icon to show a dropdown of all available shortcuts, or pin a specific shortcut directly.
+
 ## Repository Structure
 
 ```
